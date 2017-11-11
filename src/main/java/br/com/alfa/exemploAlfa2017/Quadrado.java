@@ -8,7 +8,7 @@ public class Quadrado {
 	}
 	
 	public Double getArea() {
-		return lado*lado;
+		return 2*lado;
 	}
 	
 	public Double getPerimetro() {
